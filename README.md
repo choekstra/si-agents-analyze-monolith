@@ -1,2 +1,2 @@
 # si-agents-analyze-monolith
-Analyzes Spring Boot / Grails / React / Redis / Postgres monolithic application.
+Using Agentic AI ... Analyzes Spring Boot / Grails / React / Redis / Postgres monolithic application.
